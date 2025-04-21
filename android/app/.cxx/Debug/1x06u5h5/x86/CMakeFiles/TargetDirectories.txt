@@ -1,0 +1,2 @@
+C:/flutter/weatherapp/android/app/.cxx/Debug/1x06u5h5/x86/CMakeFiles/edit_cache.dir
+C:/flutter/weatherapp/android/app/.cxx/Debug/1x06u5h5/x86/CMakeFiles/rebuild_cache.dir
